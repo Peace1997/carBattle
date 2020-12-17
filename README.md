@@ -21,7 +21,7 @@ There are two small cars, red and blue. The cars move within the range of the wa
 | wheel | number:4 ; size: 0.1 x 0.06 |
 
 ## Reference:
-[1] Box2d 手册：https://github.com/pybox2d/pybox2d/wiki/manual
-[2] JachinShen：https://github.com/JachinShen/supreme-invention
+- Box2d 手册：https://github.com/pybox2d/pybox2d/wiki/manual 
+- JachinShen：https://github.com/JachinShen/supreme-invention
 
 
